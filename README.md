@@ -56,8 +56,4 @@ Me interesa especialmente C#, ASP.NET Core, el diseño de APIs REST, la persiste
 Instituto Superior N.° 20 Néstor Zamaro — Santa Fe, Argentina  
 Estudiante avanzado, último año.
 
-## Contacto
-
-[GitHub](https://github.com/LeonelArrieta) · [arrieta.o.leonel@gmail.com](mailto:arrieta.o.leonel@gmail.com)
-
 <sub>Actualmente busco mi primera oportunidad como Backend Developer .NET Junior.</sub>
